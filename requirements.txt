@@ -1,4 +1,7 @@
 shiny>=1.0.0
-pandas>=2.0.0
+uvicorn[standard]>=0.27.0
 plotly>=5.18.0
+pandas>=2.0.0
 pulp>=2.7.0
+websockets>=11.0
+htmltools>=0.5.0
